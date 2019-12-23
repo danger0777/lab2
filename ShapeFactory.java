@@ -9,6 +9,13 @@ import java.awt.Paint;
 import java.awt.BasicStroke;
 import java.awt.Shape;
 
+/**
+    * 11111111111111111
+    * 11111111111111111
+    * 22222222222222222
+    * 33333333333333333
+    * 55555555555555555*/
+
 public class ShapeFactory
 {
     public Shape shape;
